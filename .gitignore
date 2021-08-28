@@ -4,3 +4,4 @@ dist
 .env
 prisma/**
 !prisma/schema.prisma
+yarn-error.log
